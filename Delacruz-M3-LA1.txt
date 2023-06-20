@@ -1,18 +1,17 @@
+<!DOCTYPE html>
 <html>
-
-
 <head>
-<title>GDC- Gio Galzote Delacruz</title>
+<title>One Piece</title>
 </head>
-
-
 <body>
-<h1>GDC</h1>
-<img src="https://sendeyo.com/updownload/file/script/a5c1e006576f6364c6946b8102c99078.png" alt="Gio G. Delacruz"/>
-<p>I am Fourth Year student at Pangasinan State University</p>
-<p>I am currently taking Bachelor of Science in Mathematics, Major in Pure Mathematics</p>
-<p>To find out more about me, click
-<a href="https://www.facebook.com/OficialKZgnohy">here</a></p>
-
-</body
+<h1>Monkey D Luffy</h1>
+<img src="https://cdn.dribbble.com/users/1457154/screenshots/6508150/luffy_4x.png" alt="Monkey D Luffy" style="width:250px; height:250px"/>
+<p>He is my favorite character in One Piece anime.</p>
+<p>His characteristics are:
+<ul>strong</ul>
+<ul>innocent</ul>
+<ul>and funny.</ul>
+<p>If you are also interested in anime and in One Piece, click <a href="https://www22.watchop.xyz/">here.</a></p>
+</body>
 </html>
+
