@@ -1,0 +1,18 @@
+<html>
+
+
+<head>
+<title>GDC- Gio Galzote Delacruz</title>
+</head>
+
+
+<body>
+<h1>GDC</h1>
+<img src="https://sendeyo.com/updownload/file/script/a5c1e006576f6364c6946b8102c99078.png" alt="Gio G. Delacruz"/>
+<p>I am Fourth Year student at Pangasinan State University</p>
+<p>I am currently taking Bachelor of Science in Mathematics, Major in Pure Mathematics</p>
+<p>To find out more about me, click
+<a href="https://www.facebook.com/OficialKZgnohy">here</a></p>
+
+</body
+</html>
